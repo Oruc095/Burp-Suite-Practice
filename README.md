@@ -27,7 +27,10 @@ This repository documents my hands-on experience using Burp Suite for web applic
 - Web request interception and analysis  
 - HTTP request/response manipulation  
 - Web application reconnaissance  
-- Security testing mindset development   
+- Security testing mindset development
+
+## Screenshots
+Located in /screenshots folder
 
 ## Notes
 - All testing is performed in controlled lab environments  
