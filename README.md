@@ -1,9 +1,9 @@
-# Burp Suite Practice
+# Burp Suite Web Security Testing Lab
 
 This repository documents my hands-on experience using Burp Suite for web application security testing in controlled lab environments.
 
 ## Tool
-- Burp Suite (web security testing tool)
+- Burp Suite
 
 ## Objectives
 - Intercept HTTP/HTTPS requests  
@@ -18,16 +18,16 @@ This repository documents my hands-on experience using Burp Suite for web applic
 
 ## Practical Example
 
-- Captured HTTP request using Burp Proxy  
-- Sent request to Repeater tool  
-- Modified request parameters (e.g. input values)  
-- Observed different server responses based on changes  
+- Intercepted HTTP request using Burp Proxy  
+- Forwarded request to Repeater for modification  
+- Changed request parameters (input manipulation)  
+- Observed different server-side responses based on input changes
 
 ## Skills Demonstrated
-- HTTP request interception  
-- Request/response manipulation  
-- Web traffic analysis  
-- Basic vulnerability testing mindset  
+- Web request interception and analysis  
+- HTTP request/response manipulation  
+- Web application reconnaissance  
+- Security testing mindset development   
 
 ## Notes
 - All testing is performed in controlled lab environments  
